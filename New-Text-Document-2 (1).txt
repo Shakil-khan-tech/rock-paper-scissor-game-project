@@ -1,0 +1,24 @@
+<meta name="description" content="unicco,shop,">
+<meta name="author" content="Unicco Shop">
+<meta name="keywords" content="tshirt, logo, banner, panjabi, payjama,">
+<meta name="robots" content="unicco,shop, , tshirt, logo, banner, panjabi, payjama,">
+
+
+  <!-- Twitter -->
+<meta name="twitter:site" content="@https://uniccoshop.com">
+<meta name="twitter:creator" content="@coderfast24.com">
+<meta name="twitter:card" content="https://uniccoshop.com/public/frontend/images/uniccoshop.jpg">
+<meta name="twitter:title" content="Unicco Shop">
+<meta name="twitter:description" content="unicco,shop,">
+<meta name="twitter:image" content="https://uniccoshop.com/public/frontend/images/uniccoshop.jpg">
+
+<!-- Facebook -->
+<meta property="og:url" content="https://uniccoshop.com">
+<meta property="og:title" content="Unicco Shop">
+<meta property="og:description" content="unicco,shop,">
+
+<meta property="og:image" content="https://uniccoshop.com/public/frontend/images/uniccoshop.jpg">
+<meta property="og:image:secure_url" content="https://uniccoshop.com/public/frontend/images/uniccoshop.jpg">
+<meta property="og:image:type" content="image/png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="600">
